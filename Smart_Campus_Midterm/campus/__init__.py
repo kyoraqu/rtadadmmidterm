@@ -1,1 +1,0 @@
-"""Incremental classroom monitoring project."""

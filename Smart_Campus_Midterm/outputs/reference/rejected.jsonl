@@ -1,5 +1,0 @@
-{"reason": "missing occupancy without recent observation", "record": {"event_id": "C103-0035", "timestamp": "2026-09-28T04:05:50+00:00", "room": "C103", "temperature_c": 23.57, "co2_ppm": 762.0, "occupancy": null}}
-{"reason": "out-of-range temperature_c", "record": {"event_id": "C101-0048", "timestamp": "2026-09-28T04:08:00+00:00", "room": "C101", "temperature_c": 99, "co2_ppm": 937.0, "occupancy": 23}}
-{"reason": "invalid timestamp", "record": {"event_id": "C103-0072", "timestamp": "bad-time", "room": "C103", "temperature_c": 23.72, "co2_ppm": 665.7, "occupancy": 10}}
-{"reason": "out-of-range occupancy", "record": {"event_id": "C101-0096", "timestamp": "2026-09-28T04:16:00+00:00", "room": "C101", "temperature_c": 23.05, "co2_ppm": 618.4, "occupancy": -1}}
-{"reason": "duplicate event_id", "record": {"event_id": "C102-0118", "timestamp": "2026-09-28T04:19:40+00:00", "room": "C102", "temperature_c": 23.33, "co2_ppm": 787.7, "occupancy": 15}}

@@ -1,4 +1,0 @@
-room,accepted,mean_co2_ppm,max_co2_ppm,mean_temperature_c,max_temperature_c,mean_occupancy,alert_observations,imputed_records
-C101,178,813.66,1741.5,22.81,23.74,16.92,1,1
-C102,180,1051.65,1648.7,24.14,26.72,17.39,50,1
-C103,178,797.95,1036.2,24.08,30.62,16.56,9,1
